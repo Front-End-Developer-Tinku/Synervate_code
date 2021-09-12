@@ -1,0 +1,62 @@
+{
+    "SldrMnVr":[
+        {
+            "id": 1,
+            "ImgSldr": "https://www.synervatesolutions.com/asset/images/slider_img.jpg",
+            "SldrCntVr": "Transforming  Together"
+        },
+        {
+            "id": 2,
+            "ImgSldr": "https://www.synervatesolutions.com/asset/images/slider_img-2.jpg",
+            "SldrCntVr": "Transforming  Together"
+        },
+        {
+            "id": 3,
+            "ImgSldr": "https://www.synervatesolutions.com/asset/images/slider_img-3.jpg",
+            "SldrCntVr": "Transforming  Together"
+        },
+        {
+            "id": 4,
+            "ImgSldr": "https://www.synervatesolutions.com/asset/images/slider_img-4.jpg",
+            "SldrCntVr": "Transforming  Together"
+        }
+    ],
+    "SldrSerVcmn": [
+        {
+            "id": 1,
+            "SldrSreImg": "https://www.synervatesolutions.com/asset/images/Service.jpg",
+            "SldrHdng": "Platform Migration",
+            "SldrCntVrShw": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 2,
+            "SldrSreImg": "https://www.synervatesolutions.com/asset/images/Sector-1.jpg",
+            "SldrHdng": "Application Enhancement & Customisation",
+            "SldrCntVrShw": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 3,
+            "SldrSreImg": "https://www.synervatesolutions.com/asset/images/Consulting.jpg",
+            "SldrHdng": "Reporting Suites",
+            "SldrCntVrShw": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 4,
+            "SldrSreImg": "https://www.synervatesolutions.com/asset/images/Consulting.jpg",
+            "SldrHdng": "Reporting Suites",
+            "SldrCntVrShw": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        }
+    ],
+    "AbtMnSwnVr": [
+        {
+            "id": 1,
+            "TtleAbt": " About Synervate",
+            "TtlmDisCrmt" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": 2,
+            "TtleAbt": " Why Synervate ",
+            "TtlmDisCrmt" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        }
+    ]
+}

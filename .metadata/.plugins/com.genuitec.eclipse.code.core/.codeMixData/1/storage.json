@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "14f2a0deb99ba7f3a4e67201ea3c5165719726b772cdd8f90affdda6621d5a99",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "5d382df99debc4b79ca0b5ca16fd04c8",
+                "configURIPath": "file:///d%3A/frnotdesignApp/Front-App/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e"
+}

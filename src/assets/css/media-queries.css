@@ -1,0 +1,2282 @@
+@media only screen and (min-width:1400px) and (max-width:1560px) { 
+ .AbtNavSec ul li {
+    font-size: 25px;
+ }
+
+}
+
+@media only screen and (min-width:1361px) and (max-width:1400px) {
+ 
+ .InsghtSecShow {
+    overflow: hidden;
+ }
+
+ .Col4ValSec:nth-child(3) .ColVla12Sec:last-child {
+    height: 100px;
+ }
+
+ .AbtNavSec ul li {
+    font-size: 26px;
+ }
+
+/* .difination {
+
+    width: 75%;
+    padding: 25px;
+    margin-top: -135px;
+
+ }*/
+
+.ClInsSec .Col7Sec:nth-child(2) {
+    max-height: 374px;
+}
+
+.business-inquiry {
+        width: 100%;
+    padding: 50px;
+    float: left;
+}
+
+ .video-btn {
+    right: 80px;
+    bottom: 35px;
+ }
+
+ .hdrDown .Nav {
+    padding: 13px 30px;
+ }
+
+ .Nav {
+    padding: 25px 30px;
+ }
+
+ .NavRight ul{
+    width: 86%;
+ }
+
+ .ArwSecLn {
+    margin: 13px 0px 13px 34px;
+ }
+
+ .AbtSerVec12 .AbtSerVec6 {
+    margin-right: 75px;
+ }
+
+ .CntTitleSec {
+    bottom: 25px;
+    left: 70px;
+ }
+
+ .SrcBnerSec {
+    width: 60%;
+    left: 35px;
+ }
+
+ .SrcDetlsDorwn {
+    left: 35px;
+ }
+
+ .BneerSec {
+    height: 60vh;
+ }
+
+section.Sec12Bneer.PadSecFl .BneerSec {
+    height: 35vh;
+}
+
+section.SerVcSec {
+    /*overflow: hidden;*/
+}
+
+ .AbtSec12 .WdtSecPd {
+    padding: 40px;
+ }
+
+ .SldSer {
+    padding: 0px 55px;
+ }
+
+ .ClInsSec .Col7Sec:nth-child(3) {
+        margin-right: 15px;
+ }
+
+ .ClInsSec .Col7Sec:nth-child(3) {
+         margin-right: 15px;
+  }
+
+  .TestMnSec {
+    overflow: hidden;
+    padding-bottom: 100px;
+  }
+
+  .PrtSec12 {
+    padding: 60px 0px;
+  }
+
+  .inshight-header {
+    height: 18vh;
+  }
+
+   .SerVcSec4 {
+        margin-right: 20px;
+ } 
+
+ .SrvDetSecOne {
+    padding: 60px 0px ;
+ }
+
+ .col-stsec-12 .col-stsec-3 {
+    width: 31%;
+ }
+
+
+
+}
+@media only screen and (min-width:1024px) and (max-width:1360px) {
+
+.Cntimg {
+    padding: 0px 15px;
+    width: 60%;
+}
+
+ .col-stsec-12 .col-stsec-3 {
+    width: 31%;
+ }
+
+
+
+.searchbar {
+    width: 100%;
+}
+
+.inshight-header {
+    height: 9vh;
+}
+
+ .Sec12Bneer .BneerSec {
+    height:auto !important;
+  }
+
+.Sec12Bneer .BneerSec img {
+    display: block !important;
+}
+
+.CntTitleSec {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+
+.CntTitleSec h2 , .CntTitleSec h1 {
+    font-size: 40px;
+}
+
+.CntSecWdth h2 , .CntSecWdth h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+
+.SldSer {
+    padding: 0px 40px;
+   }
+
+ section.SlideHome.slideTop {
+    height: auto;
+}  
+
+.BackImgSlide img {
+    height: auto;
+}
+
+section.SerVcSec {
+    /*overflow: hidden;*/
+    padding: 30px 0px;
+}
+
+.PrtSec12 {
+    padding: 60px 0px;
+}
+
+.CpyMsg {
+    width: 60%;
+}
+
+.Scmedia {
+    width: 40%;
+}
+
+.ParNerSec {
+    padding: 0px 100px;
+}
+
+.navInn {
+    width: 100%;
+    padding: 50px 40px;
+}
+
+.MenuSecTwo {
+    padding: 20px;
+}
+
+.SldSer .owl-next {
+   right: -55px;
+ }
+
+ .ClInsSec .Col7Sec:nth-child(1) {
+    margin-right: 25px;
+ }
+
+ .ClInsSec .Col7Sec:nth-child(3) {
+    margin-right: 15px;
+ }
+
+ .ClInsSec .Col7Sec:nth-child(4) {
+    margin-right: 15px;
+ }
+
+ .TestMnSec {
+    overflow: hidden;
+    padding-bottom: 100px;
+ }
+
+ .ClInsSec .Col7Sec {
+    margin-bottom: 25px;
+ }
+
+ .CstudyCnt h3 {
+    text-align: center;
+    width: 100%;
+ }
+
+ .BacimfSec {
+    height: 40vh;
+ }
+
+ .BacImgCseStudy {
+    height: 100%;
+ }
+
+ .Cs12Sec {
+    height: 100%;
+ }
+
+ .CseCntshow {
+    bottom: 20px;
+ }
+ 
+ .SldSer .owl-prev {
+    left: -55px;
+ }
+
+ .NavLrft {
+    width: 30%;
+ }
+
+ .NavLrft ul {
+    display: none;
+ }
+
+ .NavRight {
+    width: 70%;
+ }
+
+ .TextAndImg h2,.TextAndImg h1 {
+   
+   line-height: 55px;
+ }
+
+ .TextAndImg {
+    width: 42%;
+    bottom: 88px;
+ }
+ 
+ .AbtSec12 .WdtSecPd {
+    padding: 40px 40px 40px 25px;
+    height: 100%;
+ }
+
+ .PadSecLng {
+    width: 90%;
+    position: relative;
+    margin-left: 34px;
+    top: 50%;
+    transform: translate(0px, -50%);
+ }
+
+ .AbtNavSec ul li {
+    margin-right: 7px;
+    font-size: 25px;
+ }
+
+  .SerVcSec4 {
+        margin-right: 15px;
+ }
+
+.clm4, .clm6, .clm2 {
+    padding: 0 0px;
+ }
+
+.SrcBnerSec {
+        width: 55%;
+}
+
+.SerBannerDetCnt h3,.SerBannerDetCnt h1 {
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+.SerBannerDetCnt h3:before,.SerBannerDetCnt h1:before {
+    top: -19px;
+    height: 4px;
+}
+
+.SerBannerDetCnt p {
+    text-align: justify;
+}
+
+.SrvDetSecOne {
+    padding: 40px 0px;
+}
+
+.TitleDetailSec h2 {
+    margin-bottom: 20px;
+}
+
+.ColSrDetail12 .ColSrDetail4 {
+        margin-right: 20px;
+}
+
+.TitleDetailSec p {
+    text-align: justify;
+}
+
+.AbtSerVec6 h3 {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.AbtSerVec6 h3:after {
+    bottom: -20px;
+    height: 4px;
+}
+
+.AbtSerVec12 .AbtSerVec6 {
+        margin-right: 40px;
+        width: 47%;
+}
+
+.AbtSerVec6 p {
+    text-align: justify;
+}
+
+.SerViceAbtSec {
+    padding: 30px 0px 30px 0px;
+}
+
+.SrConSec {
+    z-index: 0;
+    opacity: 0.2;
+}
+
+.GrtSloutinSec {
+    padding: 40px 0px 55px 0px;
+}
+
+.GetSolSecShgow {
+    z-index: 1;
+}
+
+.GetSlutionSec h3 {
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.GetSolSecShgow .BtnSrDetailSec {
+    margin-top: 25px;
+}
+
+}
+
+@media only screen and (min-width:768px) and (max-width:1023px) {
+ 
+ .clm4, .clm6, .clm2 {
+    padding: 0 0px;
+ }
+
+.SrcDetlsDorwn {
+    display: none;
+}
+
+.Col4ValSec{
+    width: 48%;
+    margin-right: 2%;
+}
+
+.Col4ValSec:nth-child(2) .ColVla12Sec:last-child {
+    margin-bottom: 18px;
+}
+
+ .Nav {
+    padding: 10px 10px;
+ }
+
+  .TestMnSec  {
+    overflow: hidden;
+  }
+
+
+ .NavRight ul {
+    display: none;
+ }
+
+.NavLrft ul {
+    display: none;
+}
+
+.NavLrft {
+    float: left;
+    width: 25%;
+}
+
+.NavRight {
+    float: left;
+    width: 75%;
+}
+
+.ArwSecLn {
+    margin: 8px 13px 13px 34px;
+    float: right;
+}
+
+.hdrDown .Nav {
+  padding: 10px 10px;  
+}
+
+header.hdrDown {
+    height: 92px;
+}
+
+section.SlideHome.slideTop {
+    height: auto;
+}
+
+.BackImgSlide:before {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: '';
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.58);
+}
+
+.BackImgSlide img {
+    height: auto;
+}
+
+.TextAndImg {
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    transform: translate(0px, -50%);
+}
+
+section.SerVcSec {
+    padding: 30px 0px 30px;;
+}
+
+.TitleSec {
+    margin-bottom: 30px;
+}
+
+.TextAndImg h2,.TextAndImg h1  {
+    font-size: 40px;
+}
+
+.TitleSec h2 {
+    font-size: 40px;
+}
+
+.SldSer {
+    padding: 0px 50px;
+    margin-bottom: 30px;
+}
+
+.SldSer .owl-prev {
+    left: -60px;
+}
+
+.SldSer .owl-next {
+    right: -60px;
+}
+
+.BtnSer {
+    margin-top: 45px;
+}
+
+
+.AbtNavSec ul li {
+    padding: 10px 5px 10px 0px;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.AbtNavSec ul li:last-child {
+    margin-right: 0px;
+}
+
+.AbtBtnSer {
+    margin-top: 25px;
+    margin-bottom: 22px;
+}
+
+.AbtSec12 .WdtSecPd {
+       padding: 25px;
+    float: left;
+    width: 100%;
+    position: relative;
+    height: 100%;
+}
+
+.PadSecLng {
+    width: 100%;
+    margin: 0; 
+    text-align: center;
+    display: block;
+    top: 50%;
+    position: relative;
+    transform: translate(0px, -50%);
+}
+
+.PadSecLng img {
+    width: 100%;
+    height: 100%;
+}
+
+.VdeoBtnAb {
+    position: absolute;
+    top: 22px;
+    left: auto;
+     transform: none; 
+    z-index: 1;
+    right: 21px;
+}
+
+.MenuSecTwo {
+    display: none;
+}
+.MenSecSyn {
+    width: 100%;
+    overflow: auto;
+    top: 0;
+}
+.navInn {
+    width: 100%;
+    padding: 50px 25px;
+}
+
+.searchbar {
+    width: 100%;
+}
+
+.searchbar .searchbar-input {
+        width: 75%;
+}
+
+.FterMnuSec .LogoMnu li a {
+    padding: 10px 8px;
+    display: inline-block;
+    margin-right: 0px;
+}
+
+ .CstudyCnt h3 {
+    font-size: 40px;
+    text-align: center;
+ }
+
+/*29-01-2020*/
+
+ .CstudyCnt  {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+    text-align: center;
+ }
+
+ .CstudyCnt ul li {
+    margin-right: 15px;
+ }
+
+ .CstudyCnt ul {
+    margin-left: 0px;
+ }
+
+ .BacimfSec {
+    height: 50vh;
+ }
+
+ .BacImgCseStudy {
+    height: 100%;
+ }
+
+ .Cs12Sec {
+    height: 100%;
+ }
+
+ .CseCntshow {
+    width: 90%;
+    bottom: 20px;
+ }
+
+ .CseCntshow .BtnCse {
+    margin-top: 20px;
+ }
+
+ .CseCntshow h3 {
+    margin-bottom: 15px;
+ }
+
+ .ClInsSec .Col7Sec:nth-child(1) {
+    margin-right:  15px;
+ }
+
+ .ClInsSec .Col7Sec {
+    margin-bottom: 15px;
+ }
+
+ .ClInsSec .Col7Sec:nth-child(3) {
+    margin-right: 10px;
+ }
+
+ .ClInsSec .Col7Sec:nth-child(4) {
+    margin-right: 10px;
+ }
+
+ .InSecCntSec {
+    width: 95%;
+    bottom: 12px; 
+ }
+
+ .InSecCntSec p {
+    font-size: 15px;
+    line-height: 19px;
+ }
+
+ .TestMnSec {
+    overflow: hidden;
+    padding-bottom: 90px;
+    padding-top: 30px;
+    margin-bottom: -10px;
+ }
+ 
+ .InsghtSecShow {
+    padding: 30px 0px;
+ }
+
+ .TestWdthSec {
+    width: 465px;
+    height: 465px;
+ }
+
+ .TestSecShowSlide {
+    margin-top: 60px;
+ }
+
+ .PrtSec12 {
+    padding: 30px 0px;
+ }
+ 
+ .TleSec {
+    margin-bottom: 30px;
+ }
+
+ .TleSec h2 {
+    font-size: 40px;
+ }
+
+ .EmiCheckSec {
+    padding: 30px 0px;
+ }
+
+.CstudyCnt ul li {
+
+}
+
+.Sec12Bneer .BneerSec {
+  height:auto !important;
+}
+
+.Sec12Bneer .BneerSec img {
+    display: block !important;
+}
+
+.CntTitleSec {
+    bottom: 25px;
+    left: 25px;
+}
+
+.ImgAbstSec {
+    display: none;
+}
+
+.CntSecWdth {
+    width: 100%;
+}
+
+.CntSecWdth .CnTacFrm {
+    margin-bottom: 30px;
+    padding: 0px 10px;
+}
+
+.CnTacFrm .BtnSer.CntTopBtm {
+    margin-top: 20px;
+}
+
+.CntMapSec .DSyCntSec {
+    position: absolute;
+    top: -19px;
+    width: 440px;
+    height: 440px;
+    overflow: hidden;
+}
+
+.CntMapSec .DSyCntSec .InnerDsyCntSec {
+    padding: 30px;
+}
+
+section.SerVcSec.PadSecFl {
+    padding: 30px 0px 30px;
+}
+
+.CntTitleSec h2 , .CntTitleSec h1 {
+    font-size: 36px;
+}
+
+.CntTitleSec h2:after, .CntTitleSec h1:after {
+        top: -12px;
+        width: 50px;
+        height: 4px;
+}
+
+.CntSecWdth h2 {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.SerVcCnt h2, .SerVcCnt h1 {
+    font-size: 60px;
+    line-height: 60px;
+    margin-bottom: 25px;
+}
+
+.SerVcCnt h2:before, .SerVcCnt h1:before {
+    bottom: -10px;
+    width: 70px;
+    height: 3px;
+}
+
+.SrvCHeadSec{
+    margin-bottom: 30px;
+}
+
+.SerVcSec4 {
+    width: 47%;
+    margin-right: 0px;
+}
+
+.SerVcSec4:nth-child(even) {
+    margin-left: 30px;
+}
+
+.Col-dd-9 {
+    width: 100%;
+}
+
+
+.Cntimg {
+    background: #fff;
+    padding: 10px 10px;
+    position: relative;
+    width: 100%;
+    float: left;
+}
+
+.SlieCntEvent {
+    margin-bottom: 20px;
+}
+
+.inshight-header {
+    height: 8vh;
+}
+
+.blog-detail-left {
+    flex: 0 0 65%;
+    max-width: 65%;
+}
+
+.blog-detail-right {
+    flex: 0 0 32%;
+    max-width: 32%;
+}
+
+.BloGCatDetails {
+    margin-bottom: 25px;
+}
+
+
+/*End 29-01-2020*/
+
+/*30-01-2020*/
+
+.SrcBnerSec {
+    position: relative;
+    top: auto;
+    transform: none;
+    width: 100%;
+    left: auto;
+    float: left;
+    padding: 0px 22px;
+}
+
+.SerBannerDetCnt h3:before, .SerBannerDetCnt h1:before {
+    top: -14px;
+    width: 50px;
+    height: 3px;
+}
+
+
+
+
+
+.SerBannerDetCnt h3, .SerBannerDetCnt h1 {
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.GrdSecShowSec {
+    margin-bottom: 40px;
+}
+
+.SerBannerDetCnt p {
+    color: #000;
+    text-align: justify;
+}
+
+.TitleDetailSec h2 {
+   font-size: 24px;
+   font-weight: 500;
+   margin-bottom: 10px;
+}
+
+.TitleDetailSec {
+   margin-top: 10px;
+}
+
+.SrvDetSecOne {
+    padding: 0px;
+}
+
+.TitleDetailSec p {
+    text-align: justify;
+}
+
+.ColSrDetail12 .ColSrDetail4 {
+        margin-right: 15px;
+}
+
+.ColSrDetail12 {
+    margin-bottom: 30px;
+}
+
+.AbtSerVec12 .AbtSerVec6 {
+    margin-right: 35px;
+}
+
+.AbtSerVec6 h3 {
+    font-size: 24px;
+    margin-bottom: 40px;
+    font-weight: 500;
+}
+
+.AbtSerVec6 h3:after {
+    bottom: -21px;
+    height: 4px;
+}
+
+.AbtSerVec6 p {
+    text-align: justify;
+}
+
+.SerViceAbtSec{
+    padding: 40px 0px 40px 0px;
+}
+
+.GrtSloutinSec {
+    overflow: hidden;
+}
+
+.SrConSec {
+    opacity: 0.1;
+    z-index: 0;
+}
+
+.GetSlutionSec h3 {
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+
+.GetSlutionSec p {
+    font-size: 16px;
+}
+
+.GrtSloutinSec {
+    padding: 40px 0px 60px 0px;
+}
+
+.GetSlutionSec {
+    margin-bottom: 30px;
+}
+
+.GetSolSecShgow {
+    width: 100%;
+    float: left;
+    position: relative;
+    z-index: 1;
+}
+
+.GetSolSecShgow .BtnSrDetailSec {
+    margin-top: 30px;
+}
+
+.vission-section {
+    padding: 20px 0px;
+}
+
+.video-btn {
+    right: 20px;
+    bottom: 20px;
+}
+
+.difination {
+    padding: 20px 30px 20px 30px;
+    margin-top: -280px;
+}
+
+.why-sinner {
+    margin-top: 60px;
+        width: 65%;
+}
+
+.video-btn1 {
+    left: 5%;
+    top: 35px;
+    transform: none;
+}
+
+.leadership-team {
+    padding: 30px 0px;
+}
+
+.leadership-team h3 {
+    margin-bottom: 20px;
+}
+
+.slide-team .owl-dots {
+position: relative;
+    width: 100%;
+    bottom: auto;
+    top: auto;
+    margin-top: 30px;
+}
+
+.why-sinner h3 {
+    padding-bottom: 0px;
+    font-size: 36px;
+}
+
+.difination h3 {
+    font-size: 36px;
+}
+
+.leadership-team h2 {
+    font-size: 36px;
+}
+
+header .mobile-top-header {
+    display: block;
+}
+
+.col-stsec-12 .col-stsec-3:nth-child(even) {
+    margin-left: 20px;
+}
+
+.col-stsec-12 .col-stsec-3 {
+    margin-right:  0px;
+    margin-bottom: 15px;
+    width: 48%; 
+    margin-right: 0px;  
+}
+
+
+}
+
+
+@media (max-width:767px) {
+ 
+.SrcDetlsDorwn {
+    display: none;
+} 
+
+.blog-detail-left h3 {
+ font-size: 18px;
+ line-height: 20px;
+}
+
+.subNav .subNav-list {
+    line-height: 30px;
+}
+
+.subNav .subNav-list .subNav-href {
+    font-size: 14px;
+}
+
+.ParNerSec .owl-carousel .owl-stage {
+    display: flex;
+    align-items: center;
+}
+
+.ParNerSec .ParTnerImg {
+    padding: 0px 20px 0px 20px;
+}
+
+.ParNerSec .owl-carousel .owl-item img {
+  padding: 5px;
+}
+
+/*31-01-2020*/
+
+.col-stsec-12 .col-stsec-3 {
+    width: 100%;
+    margin-right: 0px;
+}
+
+.team-name h3:after {
+    left: 50%;
+    transform: translate(-50%,0px);
+    display: none;
+}
+
+
+.ClsSecAbt {
+    display: block;
+}
+
+.CntSecPr b {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 11px;
+}
+
+.ParSecShowAbt .ImgSecIcon {
+    display: none;
+}
+
+.ParSecShowAbt .CntSecPr {
+    margin-bottom: 0px;
+    width: calc(100% - 0px);
+}
+
+.SldSer .owl-nav {
+    position: relative;
+    width: auto;
+    top: auto;
+    left: auto;
+    transform: none;
+}
+
+.Col4ValSec .ColVla12Sec {
+    pointer-events: auto;
+    cursor: pointer;
+}
+
+.TextSecShow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    margin-top: 0px;
+    display: none;
+}
+
+
+
+.SerVcCntSec p {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.AbtSecShowrow {
+    padding: 20px 0px 20px 0px;
+}
+
+.difination p {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.CntSecPr p {
+
+}
+
+.AbtValSec {
+    padding: 0px 0px 0px 0px;
+}
+
+.AlgnItmCnter {
+    top: auto;
+    transform: none;
+}
+
+.ParSecShowAbt {
+ margin-bottom: 0px;
+    display: none;
+    width: 90%;
+    height: auto;
+    position: fixed;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 40px 20px 20px 20px ;
+    left: 50%;
+    right: 0;
+    z-index: 4;
+}
+
+.Col4ValSec:nth-child(2) .ColVla12Sec:last-child {
+    margin-bottom: 18px;
+}
+
+.Col4ValSec:nth-child(3) .ColVla12Sec:last-child {
+    height: auto;
+    margin-bottom: 18px;
+}
+
+.Col4ValSec:nth-child(4) .ColVla12Sec:last-child {
+    height: auto;
+}
+
+.Col4ValSec {
+    width: 100%;
+    margin-right: 0%;
+}
+
+.CenterAlginSec {
+    margin-bottom: 10px;
+    margin-top: -5px;
+    top: 0px;
+}
+
+.AroWsec {
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+    font-size: 30px;
+    font-weight: 600;
+    color: #000;
+
+}
+
+.AroWsec:before {
+    content: none;
+}
+
+.AbtSecShowrow p {
+    line-height: 24px;
+    text-align: left;
+}
+
+.CntSecPr p {
+    line-height: 20px;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.AbtSecShowrow h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+
+
+.SerVcCntSec.team-name h3 {
+    margin-bottom: 4px;
+}
+
+.team-detail {
+    margin-top: 0px;
+    padding: 10px;
+    position: fixed;
+}
+
+.teamleft {
+     float: none; 
+    width: 50%;
+    margin: 0 auto;
+}
+
+.leadership-team  .teamright {
+    width: 100%;
+    margin-top: 10px;
+ }
+
+.leadership-team  .teamright h3 {
+    margin-bottom: 10px;
+}
+
+.leadership-team  .teamright h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.popCls {
+    top: 8px;
+    right: 8px;
+
+}
+
+.leadership-team  .teamright p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.business-inquiry {
+    padding: 10px;
+    float: left;
+    top: 50%;
+    position: relative;
+    transform: translate(0px, -50%);
+}
+
+.business-inquiry .CntSecWdth .CnTacFrm {
+    padding: 0px 0px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+header .mobile-top-header {
+    display: block;
+}
+
+
+/*End 31-01-2020*/
+
+/*30-01-2020*/
+
+.slide-team .owl-dots {
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.SrcBnerSec {
+    position: relative;
+    top: auto;
+    transform: none;
+    width: 100%;
+    left: auto;
+    float: left;
+    padding: 0px 12px;
+    margin-bottom: 20px;
+}
+
+.study-detail h2  {
+        font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.study-detail h3 {
+    font-weight: 500;
+}
+
+.SerBannerDetCnt h3:before ,.SerBannerDetCnt h1:before {
+    top: -14px;
+    width: 50px;
+    height: 3px;
+}
+
+.SerBannerDetCnt h3, .SerBannerDetCnt h1 {
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.GrdSecShowSec {
+    margin-bottom: 40px;
+}
+.SrvDetSecOne {
+    padding: 0px;
+}
+
+.ColSrDetail12 .ColSrDetail4 {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 25px;
+}
+
+
+.AbtSerVec12 .AbtSerVec6 {
+    width: 100%;
+    margin-right: 0px;
+}
+
+.SerViceAbtSec {
+    padding: 30px 0px 30px 0px;
+}
+
+.AbtSerVec6 h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.AbtSerVec6 h3:after {
+        height: 4px;
+        bottom: -16px;
+}
+
+.AbtSerVec12 .AbtSerVec6:first-child {
+    margin-bottom: 20px;
+}
+
+.AbtSerVec12 .AbtSerVec6:last-child {
+    width: 100%;
+}
+
+.GetSolSecShgow {
+    width: 100%;
+    float: left;
+}
+
+.SrConSec {
+    display: none;
+}
+
+.FrmSecSerVec .FrmGrp {
+    width: 100%;
+    margin-right: 0px;
+}
+
+.GetSolSecShgow .BtnSrDetailSec {
+    margin-top: 0px;
+}
+
+.GetSlutionSec {
+    margin-bottom: 30px;
+    
+}
+
+.GrtSloutinSec {
+    padding: 30px 0px 50px 0px;
+}
+
+.GetSlutionSec p {
+    font-size: 16px;
+}
+
+.GetSlutionSec h3 {
+    font-size: 24px;
+}
+
+.AbtSerVec6 p {
+    text-align: justify;
+}
+
+
+/*30-01-2020*/
+
+
+.SerBannerDetCnt p {
+    color: #000;
+    text-align: justify;
+    display: none;
+}
+
+.TitleDetailSec h2 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.TitleDetailSec p {
+        margin-bottom: 25px;
+        text-align: justify;
+}
+
+ .difination {
+    padding: 20px 20px 20px 20px;
+    width: 100%;
+    margin-top: 0px;
+ }
+
+ .video-btn {
+        right: 20px;
+    bottom: 15px;
+    width: 50px;
+    height: 50px;
+ }
+
+ .faq-left {
+    width: 100%;
+    padding: 20px;
+ }
+
+ .faqBx.active .faqAns {
+    padding: 20px 0 20px;
+ }
+
+ .faq-right {
+    width: 100%;
+    margin-top: 20px;
+ }
+
+.video-btn .svg-inline--fa {
+    vertical-align: 9px;
+    font-size: 13px;
+ }
+
+ .why-synervate .container{
+    width: 100%;
+ }
+
+.why-synervate {
+    height: 100%;
+}
+
+.video-btn1 {
+    display: none;
+}
+
+.why-synervate .why-sinner {
+    width: 100%;
+    padding: 15px;
+    background-color: rgba(251, 193, 56, 0.89);
+    margin-top: 0px;
+}
+
+.why-sinner h3 {
+    font-size: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+.why-sinner p {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+ .difination h3 {
+    font-size: 30px;
+ }
+
+ .vision-col1 {
+    width: 100%;
+    margin-right: 0%;
+ }
+
+ .vision-col1 h4 {
+    margin-bottom: 0px;
+    padding-bottom: 12px;
+ }
+
+ .leadership-team {
+    padding: 30px 0px;
+ }
+
+ .leadership-team h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+ }
+
+ .leadership-team h3 {
+    font-size: 16px;
+    margin-bottom: 30px;
+ }
+
+ .vission-section {
+    padding: 30px 0px;
+ }
+
+
+ .Col-dd-9 {
+    width: 100%;
+ }
+ 
+ .BloGCatDetails h4 {
+    margin: 10px 0px;
+ }
+ 
+ .SlieCntEvent {
+    margin-bottom: 20px;
+ }
+
+ .inshight-header {
+    height: 14vh;
+ }
+
+ .blog-detail-left {
+    flex: 0 0 100%;
+    max-width: 100%;
+ }
+
+ .col-sl-12 {
+    flex-wrap: wrap;
+ }
+
+ .blog-detail-right {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0%;
+ }
+
+ .BloGCatDetails {
+    margin-bottom: 30px;
+ }
+
+ .Cntimg {
+    background: #fff;
+    padding: 0px;
+    position: relative;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    float: left;
+ }
+
+ .Cntimg h3 ,  .Cntimg h1 {
+    font-size: 20px;
+ }
+
+.navInn .mainNav .mainNav-list .mainNav-href {
+    font-size: 18px;
+    padding: 1px 0;
+}
+
+.clm4, .clm6 {
+    width: 100%;
+    padding: 0px;
+}
+
+.clm2 {
+    width: 18%;
+    padding: 0;
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+
+.insight_txt-bx {
+    padding: 0px 15px;
+}
+
+.insight_hdng_txt h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.insight_date_bx {
+    padding: 1px;
+    border-radius: 5px;
+}
+
+.insight_date_bx span {
+    font-size: 20px;
+    margin: 1px 0 0px ;
+}
+
+.insight_date_bx small {
+    font-size: 12px;
+    margin: 2px 0px 6px;
+}
+
+.study-left-nav {
+    width: 100%;
+}
+
+.study-right-panel {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.plsIcon::before {
+    width: 12px;
+    right: 12px;
+}
+
+.plsIcon::after {
+    height: 12px;
+    right: 17px;
+}
+/*Service Listing End*/
+
+.SerVcCnt h2, .SerVcCnt h1 {
+    font-size: 36px;
+    line-height: 50px;
+}
+
+.SerVcCnt h2:before , .SerVcCnt h1:before {
+    width: 60px;
+    height: 3px;
+}
+
+.SrvCHeadSec .SrVcImgSec {
+    display: none;
+}
+
+.SrvCHeadSec .SerVcCnt {
+  width: 100%;
+}
+
+.SerVcCnt p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+.Sec12Bneer .BneerSec {
+    height: auto;
+}
+
+.Sec12Bneer .BneerSec img {
+    display: block !important;
+}
+
+.SrvCHeadSec {
+    padding-bottom: 23px;
+    margin-bottom: 23px;
+}
+
+.SerVcSec4 {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-right: 0px;
+}
+
+section.SerVcSec.PadSecFl {
+    padding: 15px 0px 10px 0px;
+}
+
+/*Service Listing */
+
+
+/*contact Sec*/
+ 
+ .CntTitleSec {
+    bottom: 5px;
+    left: 12px;
+ }
+
+.CntTitleSec h2:after , .CntTitleSec h1:after {
+    top: -6px;
+    height: 3px;
+    width: 50px;
+}
+
+.CntSecWdth h2 {
+    font-size: 20px;
+    margin-bottom: 5px; 
+}
+
+.CntSecWdth p {
+    font-size: 14px;
+}
+
+.CntSecWdth .CnTacFrm {
+    padding: 0px 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.CntSecWdth {
+    width: 100%;
+}
+
+.CntMapSec .DSyCntSec {
+    position: relative;
+    top: auto;
+    width: 100%;
+    height: auto;
+    left: auto;
+    float: left;
+    overflow: hidden;
+}
+
+.CntMapSec .DSyCntSec .InnerDsyCntSec {
+    padding: 15px;
+}
+
+.CntSecShow ul li {
+    padding: 5px 0px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.CntSecAdrs {
+    margin-top: 20px;
+}
+
+.CntSecAdrs p:nth-child(1) {
+    margin-bottom: 15px;
+}
+
+.CntTitleSec h2 , .CntTitleSec h1 {
+    font-size: 24px;
+}
+
+.ImgAbstSec {
+    display: none;
+}
+
+.DrSection {
+    margin-top: 10px;
+}
+
+.BtnSer.CntTopBtm {
+    margin-top: 25px;
+}
+
+/*Contact Sec End */
+
+.NavLrft ul {
+    display: none;
+}
+
+.NavRight ul {
+    display: none;
+}
+
+.NavLrft {
+    width: 30%;
+}
+
+.NavRight {
+    width: 70%;
+}
+
+.ArwSecLn {
+    float: right; 
+}
+
+.Nav {
+    padding: 15px 15px;
+}
+
+.logoSec {
+  padding-right: 0;
+}
+
+header.hdrDown {
+    height: 80px;
+}
+
+header.hdrDown .Nav {
+    padding: 11px 15px;
+}
+.ArwSecLn {
+    margin: 0px 5px 0px 0px;
+}
+
+.TextAndImg {
+    width: 55%;
+}
+
+.TextAndImg h2,.TextAndImg h1 {
+    font-size: 24px;
+    margin-top: 0px;
+}
+
+section.SlideHome.slideTop {
+    height: 45vh;
+}
+
+.BackImgSlide img {
+    height: 45vh;
+}
+
+.TextAndImg {
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    transform: translate(0px, -50%);
+}
+
+.TextAndImg h2 {
+    font-size: 18px;
+    margin-top: -6px;
+}
+
+.TextAndImg span {
+    height: 3px;
+}
+
+
+.SlideHome .owl-theme .owl-nav.disabled+.owl-dots {
+    width: 100%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+}
+
+.SlideHome .owl-theme .owl-dots .owl-dot span {
+    width: 10px;
+    height: 10px;
+}
+
+section.SerVcSec {
+    padding: 20px 0px 15px 0px;
+}
+
+.TitleSec {
+    margin-bottom: 20px;
+}
+
+.BtnSer {
+        margin-top: 40px;
+}
+
+.TitleSec h2 {
+    font-size: 36px;
+}
+.AbtSec12 .AbtSec6 {
+    width: 100%;
+}
+
+.SerVcCntSec {
+    width: 95%;
+    text-align: center;
+}
+
+.SerVcCntSec h3 {
+    font-size: 16px;
+    line-height: 1;
+}
+
+.AbtNavSec ul li {
+    font-size: 18px;
+    margin-right: 5px;   
+}
+
+.AbtCntSec {
+    margin-top: 18px;
+}
+
+.MenuSecTwo {
+    display: none;
+}
+
+.MenSecSyn {
+    width: 100%;
+    overflow: auto;
+    top: 0;
+}
+
+.navInn {
+    width: 100%;
+    padding: 50px 25px;
+}
+
+.SldSer .owl-theme .owl-nav [class*=owl-] {
+    width: 20px;
+    padding: 0px;
+}
+
+.SldSer .owl-theme .owl-nav [class*=owl-] img {
+    width: 100%;
+}
+
+.SldSer .owl-next {
+    right: -5px;
+    position: relative;
+}
+
+.SldSer .owl-prev {
+    left: -5px;
+    position: relative;
+}
+
+.SldSer {
+    padding: 0px 0px;
+    margin-bottom: 20px;
+}
+
+.AbtSec12 .WdtSecPd {
+    padding: 20px;
+}
+
+.SldSer .owl-prev img {
+    width: 100%;
+}
+
+.AbtBtnSer {
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.PadSecLng {
+   width: 100%; 
+}
+
+.VdeoBtnAb {
+    position: absolute;
+    top: auto;
+    transform: none; 
+    z-index: 1;
+    bottom: 17px;
+    right: 16px;
+    left: auto;
+}
+
+.VdeoBtnAb .mission_video .video-play-button:after {
+    width: 45px;
+    height: 45px;
+}
+
+.VdeoBtnAb .mission_video .video-play-button span {
+    margin-top: 15px;
+    border-left: 8px solid #000;
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+    margin-left: 10px;
+    border-radius: 8px;
+}
+
+.CstudyCnt {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.CstudyCnt h3 {
+    font-size: 36px;
+}
+
+.CstudyCnt ul {
+    margin-left: 0px;
+}
+
+.CstudyCnt ul li {
+    margin-right: 25px;
+    padding: 10px 0px;
+    margin-bottom: 5px;
+}
+
+.BacimfSec {
+    height: auto;
+}
+
+.BacImgCseStudy {
+    height: auto;
+}
+
+.TiteSecCase {
+    margin-bottom: 50px;
+    margin-top: 15px;
+    position: relative;
+    top: auto;
+}
+
+.Cs4Sec {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 16px;
+}
+
+.Cs12Sec {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.CseCntshow h3 {
+   font-size: 24px;
+   margin-bottom: 10px;
+}
+
+.CseCntshow .BtnCse {
+    margin-top: 10px;
+}
+
+.CseCntshow {
+    width: 100%;
+    position: relative;
+    bottom: auto;
+    left: auto;
+    transform: none;
+}
+
+.InsghtSecShow {
+    padding: 30px 0px;
+}
+
+.ClInsSec .Col7Sec {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+
+.ClInsSec .Col7Sec:nth-child(1) {
+    width: 100%;
+    margin-right: 0px;
+}
+
+.ClInsSec .Col7Sec:nth-child(2) {
+    width: 100%;
+}
+
+.ClInsSec .Col7Sec:nth-child(3) {
+    width: 100%;
+    margin-right: 0px;
+}
+
+.ClInsSec .Col7Sec:nth-child(4) {
+    width: 100%;
+    margin-right: 0px;
+}
+
+.ClInsSec .Col7Sec:nth-child(5) {
+    width: 100%;
+    margin-right: 0px;
+}
+
+.InSecCntSec p {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.InSecCntSec {
+    width: 95%;
+    bottom: 10px;
+}
+
+.TestMnSec {
+    padding: 15px;
+}
+
+.TstSecTest {
+    margin-top: 0px;
+}
+
+.TestWdthSec {
+    width: 100%;
+    height: auto;
+    transform: none;
+    margin: 0;
+    float: left;
+}
+.TestSecShowSlide {
+    transform: none;
+    padding: 0 20px;
+    margin-left: 0px;
+    margin-top: 22px;
+}
+
+.TestSecShowSlide .owl-nav {
+    position: relative;
+    left: auto;
+    top: auto;
+    transform: none;
+    margin-bottom: 10px;
+}
+
+.TestSecShowSlide .owl-nav .owl-prev{
+    left: auto;
+    top: auto;
+    position: relative;
+    width: 26px;
+}
+
+.TestSecShowSlide .owl-nav .owl-next {
+    position: relative;
+    right: auto;
+    top: auto;
+    width: 26px;
+
+}
+
+.ColTestSec p {
+    text-align: justify;
+}
+
+.TleSec {
+    margin-bottom: 30px;
+}
+
+.TleSec h2 {
+    font-size: 36px;
+}
+
+
+.DstName {
+    margin-top: 20px;
+}
+
+.DstName p {
+    text-align: center;
+}
+
+.PrtSec12 {
+    padding: 30px 0px;
+}
+
+.ParNerSec {
+    padding: 0px 5px;
+}
+
+.BackImgSlide:before {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: '';
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.58);
+}
+
+.AbtNavSec ul li:last-child {
+    margin-right: 0px;
+}
+
+.SubCri6 {
+    width: 100%;
+}
+
+.SubCri6:last-child{
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.BtnSer.mgtopopx {
+    top: auto;
+    transform: none;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.EmiCheckSec {
+    padding: 30px 0px 52px 0px;
+}
+
+#PanelNewsletter {
+    width: 100%;
+}
+
+.searchbar .searchbar-input {
+    width: 75%;
+    float: left;
+}
+
+.btn_close {
+    width: 10%;
+    float: left;
+    display: block;
+    margin-top: 10px;
+}
+
+.btn_close img {
+    width: 100%;
+}
+
+.searchbar {
+    width: 100%;
+}
+
+.searchbar .img {
+    cursor: pointer;
+    padding: 8px;
+    width: 10%;
+    float: left;
+}
+
+footer {
+    padding: 25px 0px;
+}
+
+.FterMnuSec .LogoMnu li {
+    display: block;
+}
+
+.FterMnuSec .LogoMnu li a {
+    padding: 8px 0px;
+    margin-right: 0px;
+    display: block;
+}
+
+.CpoyRightSec {
+    padding: 0px 0px;
+}
+
+.Scmedia {
+    margin-top: 30px;
+    width: 100%;
+}
+
+.Scmedia ul {
+    text-align: left;
+}
+
+.FterMnuSec .LogoFter {
+    width: 100%;
+}
+
+.FterMnuSec .LogoMnu {
+    width: 100%;
+    text-align: left;
+}
+
+.CpyMsg {
+    width: 100%;
+
+}
+
+  
+}
+
+@media (hover:none) {
+    
+}
+
+@media (max-width:480px) {
+
+}
+
+/*Ie Media Reslove */
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+ 
+  .Col4ValSec {
+    height: auto;
+  }
+
+  .Col4ValSec .ColVla12Sec {
+    height: auto;
+  }
+
+}

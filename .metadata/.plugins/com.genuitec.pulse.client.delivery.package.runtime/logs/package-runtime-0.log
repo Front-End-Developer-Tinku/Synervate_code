@@ -1,0 +1,18 @@
+Apr 01, 2021 12:18:22 PM com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+INFO: Package starting up at Thu Apr 01 12:18:22 IST 2021
+Apr 01, 2021 12:18:43 PM org.glassfish.grizzly.nio.NIOTransport start
+INFO: Adjusting kernel thread pool to max size 5 to handle configured number of SelectorRunners
+Apr 01, 2021 12:18:43 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [127.0.0.1:20425]
+Apr 01, 2021 12:18:43 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Apr 01, 2021 12:18:43 PM org.glassfish.tyrus.server.Server start
+INFO: WebSocket Registered apps: URLs all start with ws://127.0.0.1:20425
+Apr 01, 2021 12:18:43 PM org.glassfish.tyrus.server.Server start
+INFO: WebSocket server started.
+Apr 01, 2021 12:21:36 PM com.genuitec.pulse.client.deliverypackage.runtime.UpdatesService checkForUpdates
+INFO: Latest version of package is installed; update check finished in 4126ms
+Apr 01, 2021 12:23:35 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [127.0.0.1:20425]
+Apr 01, 2021 12:23:35 PM org.glassfish.tyrus.server.Server stop
+INFO: Websocket Server stopped.
